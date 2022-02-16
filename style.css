@@ -1,0 +1,35 @@
+.container{
+    padding: 16px;
+    background-color:purple ;
+    
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    font-family:'Oswald', sans-serif;
+    
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    
+}
+
+.escaladoimg{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.container2{
+    background-color: gray;
+    padding: 16px;
+    margin-top: 10px;
+}
+
+.container3{
+    background-color: azure;
+    padding: 16px;
+    margin-top: 16px;
+}
